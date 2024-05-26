@@ -28,7 +28,7 @@ function AboutMeBio() {
 				<p
 					className="mb-4 text-ternary-dark dark:text-ternary-light text-lg"
 				>
-					Connect with me on <u><a href="https://www.linkedin.com/in/harshmoradiyace/" target="_blank">LinkedIn</a></u> or explore my projects on <u><a href="https://github.com/HaRsH8747" target="_blank">GitHub</a></u>. I’m always open to connecting with fellow tech enthusiasts and professionals. 🤝
+					Connect with me on <u><a href="https://www.linkedin.com/in/harshmoradiyace/" rel="noreferrer" target="_blank">LinkedIn</a></u> or explore my projects on <u><a href="https://github.com/HaRsH8747" rel="noreferrer" target="_blank">GitHub</a></u>. I’m always open to connecting with fellow tech enthusiasts and professionals. 🤝
 				</p>
 			</div>
 		</div>
