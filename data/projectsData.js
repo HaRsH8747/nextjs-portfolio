@@ -509,4 +509,84 @@ export const projectsData = [
 			SocialSharingHeading: 'Share This',
 		},
 	},
+	{
+		id: 7,
+		title: 'Online Bakery Shopping',
+		url: 'Online Bakery Shopping',
+		category: 'Desktop Application',
+		img: '/images/web-project-2.jpg',
+		GitHubLink:'https://github.com/HaRsH8747/Online-Bakery-Shopping',
+		ProjectHeader: {
+			title: 'Online Bakery Shopping',
+			publishDate: 'Jan 2019 – Feb 2019',
+			tags: 'Desktop Application',
+		},
+		ProjectImages: [
+			{
+				id: uuidv4(),
+				title: 'Farm Tech Backend',
+				img: '/images/ui-project-1.jpg',
+			},
+			{
+				id: uuidv4(),
+				title: 'Farm Tech Backend',
+				img: '/images/web-project-2.jpg',
+			},
+			{
+				id: uuidv4(),
+				title: 'Farm Tech Backend',
+				img: '/images/mobile-project-2.jpg',
+			},
+		],
+		ProjectInfo: {
+			ClientHeading: 'About Client',
+			CompanyInfo: [
+				{
+					id: uuidv4(),
+					title: 'Name',
+					details: 'University of Windsor',
+				},
+				{
+					id: uuidv4(),
+					title: 'Services',
+					details: 'Web Development',
+				},
+				{
+					id: uuidv4(),
+					title: 'Website',
+					details: 'https://uwindsor.ca',
+				},
+				{
+					id: uuidv4(),
+					title: 'Phone',
+					details: '555 8888 888',
+				},
+			],
+			ObjectivesHeading: 'Objective',
+			ObjectivesDetails:
+				'Engineered a scalable backend system using Python and Django, implementing RESTful API',
+			Technologies: [
+				{
+					title: 'Tools & Technologies',
+					techs: [
+						'Java',
+						'JavaFx',
+						'SceneBuilder',
+						'CSS',
+						'XML',
+						'JDBC'
+					],
+				},
+			],
+			ProjectDetailsHeading: 'Challenge',
+			ProjectDetails: [
+				{
+					id: uuidv4(),
+					details:
+						'Built a Desktop App using JavaFx for a robust GUI and with the help of scene builder created a much more appealing UI.',
+				},
+			],
+			SocialSharingHeading: 'Share This',
+		},
+	},
 ];
