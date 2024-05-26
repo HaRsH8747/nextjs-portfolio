@@ -16,8 +16,5 @@ export const aboutMeData = [
 	},{
 		id: uuidv4(),
 		bio: "When I'm not coding, I love exploring the latest tech trends and expanding my knowledge base. 📚 I’m passionate about both learning and sharing insights with others in the field. 🌐",
-	},{
-		id: uuidv4(),
-		bio: "Connect with me on LinkedIn or explore my projects on GitHub. I’m always open to connecting with fellow tech enthusiasts and professionals. 🤝",
 	},
 ];
